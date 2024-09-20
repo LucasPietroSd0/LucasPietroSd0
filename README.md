@@ -1,10 +1,8 @@
-Ola meu nome é Lucas Pietro
+# Ola meu nome é Lucas Pietro
 
 
 # github focado para guardar projetos e aprendizados de linguagens de programação.
 
-
-# conhecimento-e-aprendendo
 
 <a href="https://www.linkedin.com/in/lucas-pietro-820576301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg">
