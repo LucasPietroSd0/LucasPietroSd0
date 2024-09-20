@@ -5,17 +5,7 @@ github focado para guardar projetos e aprendizados de linguagens de programaçã
 
 
 linguagens de aprendizado 👇🏽
-
-
-
-  
-  
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" heigtht="60px" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" heigtht="60px" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" heigtht="60px" width="60px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" heigtht="60px" width="60px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" heigtht="60px" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" heigtht="60px" width="60px"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-plain-wordmark.svg"  heigtht="60px" width="60px"/>
           
-          
-          
-
 
 Frontend: HTML, CSS, JavaScript, Vue.js , Figma
 
