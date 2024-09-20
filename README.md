@@ -13,8 +13,9 @@ linguagens de aprendizado 👇🏽
    
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" heigtht="60px" width="60px" />
           
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" heigtht="60px" width="60px"/>
           
-               
 
 
 Frontend: HTML, CSS, JavaScript, Vue.js
