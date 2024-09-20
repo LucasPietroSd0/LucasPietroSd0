@@ -4,7 +4,7 @@
 github focado para guardar projetos e aprendizados de linguagens de programação.
 
 
-linguagens de aprendizado 👇🏽
+# linguagens de aprendizado 👇🏽
           
 
 Frontend: HTML, CSS, JavaScript, Vue.js , Figma
