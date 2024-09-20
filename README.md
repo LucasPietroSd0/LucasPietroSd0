@@ -5,9 +5,8 @@ github focado para guardar projetos e aprendizados de linguagens de programaçã
 
 
 linguagens de aprendizado 👇🏽
+    <i class="devicon-html5-plain-wordmark colored"></i>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-          
 
 
 Frontend: HTML, CSS, JavaScript, Vue.js
