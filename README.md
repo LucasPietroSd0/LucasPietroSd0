@@ -25,5 +25,5 @@ contatos 👇🏽
 <div>
 <a href="https://github.com/LucasPietroSd0">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPietroSd0i&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/?username =LucasPietroSd0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username =LucasPietroSd0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
