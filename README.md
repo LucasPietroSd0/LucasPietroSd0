@@ -19,7 +19,11 @@ Banco de Dados: PostgreSQL
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" heigtht="60px" width="60px"  /> 
 
-DevOps: Docker, Git/GitHub, CI/CD
+DevOps: Git/GitHub
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" heigth="60px" width="60px" />
+          
+
 
 contatos 👇🏽
 
