@@ -10,7 +10,7 @@ linguagens de aprendizado 👇🏽
 
   
   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="10px" width="10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"/>
           
                
 
