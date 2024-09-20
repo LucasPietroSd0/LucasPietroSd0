@@ -1,7 +1,7 @@
-## Ola meu nome é Lucas Pietro
+Ola meu nome é Lucas Pietro
 
 
-github focado para guardar projetos e aprendizados de linguagens de programação.
+# github focado para guardar projetos e aprendizados de linguagens de programação.
 
 
 # conhecimento-e-aprendendo
