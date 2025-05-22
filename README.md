@@ -8,9 +8,11 @@ github focado para guardar projetos e aprendizados de linguagens de programaçã
 # linguagens de aprendizado 
           
 
-Frontend: HTML, CSS, JavaScript, Vue.js , Figma
+Frontend: HTML, CSS, JavaScript, React, Figma
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" heigtht="60px" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" heigtht="60px" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" heigtht="60px" width="60px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-plain-wordmark.svg"  heigtht="60px" width="60px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" heigtht="60px" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" heigtht="60px" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" heigtht="60px" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" heigtht="60px" width="60px"/> 
+<img src="https://devicon-website.vercel.app/api/react/original-wordmark.svg" width="60px"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" heigtht="60px" width="60px" />
           
 Backend: Java
 
